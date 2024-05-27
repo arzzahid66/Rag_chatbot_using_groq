@@ -11,7 +11,6 @@ from typing import Optional
 from random import randrange
 # from simple_qa import*
 from fastapi import FastAPI, HTTPException
-
 app = FastAPI()
 
 
